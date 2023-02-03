@@ -1,2 +1,3 @@
-# frontendmentorch1
+# QR code component
+
 Frist challenge from Frontend Mentor 
